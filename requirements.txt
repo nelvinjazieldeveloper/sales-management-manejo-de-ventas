@@ -1,0 +1,4 @@
+flet
+fpdf
+requests
+beautifulsoup4
