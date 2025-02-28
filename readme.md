@@ -54,8 +54,7 @@ Este proyecto es un Sistema de Gestión de Ventas que permite a los usuarios lle
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/sales-management-system.git
-```
+   git clone https://github.com/nelvinjazieldeveloper/sales-management-manejo-de-ventas.git
 
 2. Install the required packages:
 ```bash
@@ -64,7 +63,7 @@ Este proyecto es un Sistema de Gestión de Ventas que permite a los usuarios lle
 
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/yourusername/sales-management-system.git
+   git clone https://github.com/nelvinjazieldeveloper/sales-management-manejo-de-ventas.git
 ```
 
 2. Instala las dependencias requeridas:
